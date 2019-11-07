@@ -1,0 +1,19 @@
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\GPSSim\bin\Debug\GPSSim.exe.config
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\GPSSim\bin\Debug\GPSSim.exe
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\GPSSim\bin\Debug\GPSSim.pdb
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\GPSSim\obj\Debug\GPSSim.csprojAssemblyReference.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\GPSSim\obj\Debug\GPSSim.Form1.resources
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\GPSSim\obj\Debug\GPSSim.Properties.Resources.resources
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\GPSSim\obj\Debug\GPSSim.csproj.GenerateResource.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\GPSSim\obj\Debug\GPSSim.csproj.CoreCompileInputs.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\GPSSim\obj\Debug\GPSSim.exe
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\GPSSim\obj\Debug\GPSSim.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\GPSSim\bin\Debug\GPSSim.exe.config
+C:\Users\timmc\Documents\AeroVonics Tools\GPSSim\bin\Debug\GPSSim.exe
+C:\Users\timmc\Documents\AeroVonics Tools\GPSSim\bin\Debug\GPSSim.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\GPSSim\obj\Debug\GPSSim.csprojAssemblyReference.cache
+C:\Users\timmc\Documents\AeroVonics Tools\GPSSim\obj\Debug\GPSSim.Form1.resources
+C:\Users\timmc\Documents\AeroVonics Tools\GPSSim\obj\Debug\GPSSim.Properties.Resources.resources
+C:\Users\timmc\Documents\AeroVonics Tools\GPSSim\obj\Debug\GPSSim.csproj.GenerateResource.cache
+C:\Users\timmc\Documents\AeroVonics Tools\GPSSim\obj\Debug\GPSSim.exe
+C:\Users\timmc\Documents\AeroVonics Tools\GPSSim\obj\Debug\GPSSim.pdb

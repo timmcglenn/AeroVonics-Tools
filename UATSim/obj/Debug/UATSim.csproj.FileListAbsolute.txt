@@ -1,0 +1,19 @@
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\UATSim\bin\Debug\UATSim.exe.config
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\UATSim\bin\Debug\UATSim.exe
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\UATSim\bin\Debug\UATSim.pdb
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\UATSim\obj\Debug\UATSim.csprojAssemblyReference.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\UATSim\obj\Debug\UATSim.Properties.Resources.resources
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\UATSim\obj\Debug\UATSim.Form1.resources
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\UATSim\obj\Debug\UATSim.csproj.GenerateResource.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\UATSim\obj\Debug\UATSim.csproj.CoreCompileInputs.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\UATSim\obj\Debug\UATSim.exe
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\UATSim\obj\Debug\UATSim.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\UATSim\bin\Debug\UATSim.exe.config
+C:\Users\timmc\Documents\AeroVonics Tools\UATSim\bin\Debug\UATSim.exe
+C:\Users\timmc\Documents\AeroVonics Tools\UATSim\bin\Debug\UATSim.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\UATSim\obj\Debug\UATSim.csprojAssemblyReference.cache
+C:\Users\timmc\Documents\AeroVonics Tools\UATSim\obj\Debug\UATSim.Properties.Resources.resources
+C:\Users\timmc\Documents\AeroVonics Tools\UATSim\obj\Debug\UATSim.Form1.resources
+C:\Users\timmc\Documents\AeroVonics Tools\UATSim\obj\Debug\UATSim.csproj.GenerateResource.cache
+C:\Users\timmc\Documents\AeroVonics Tools\UATSim\obj\Debug\UATSim.exe
+C:\Users\timmc\Documents\AeroVonics Tools\UATSim\obj\Debug\UATSim.pdb

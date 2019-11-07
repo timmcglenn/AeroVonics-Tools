@@ -1,0 +1,17 @@
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\PCBootLoader\STM32 Flash Loader\obj\Debug\STM32 Flash Loader.csprojAssemblyReference.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\PCBootLoader\STM32 Flash Loader\obj\Debug\STUploader.fMainForm.resources
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\PCBootLoader\STM32 Flash Loader\obj\Debug\STM32_Flash_Loader.Properties.Resources.resources
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\PCBootLoader\STM32 Flash Loader\obj\Debug\STM32 Flash Loader.csproj.GenerateResource.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\PCBootLoader\STM32 Flash Loader\obj\Debug\STM32 Flash Loader.csproj.CoreCompileInputs.cache
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\obj\Debug\STM32 Flash Loader.csprojAssemblyReference.cache
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\obj\Debug\STUploader.fMainForm.resources
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\obj\Debug\STM32_Flash_Loader.Properties.Resources.resources
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\obj\Debug\STM32 Flash Loader.csproj.GenerateResource.cache
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\bin\Debug\AeroVonics Code Loader.exe.config
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\bin\Debug\AeroVonics Code Loader.exe
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\bin\Debug\AeroVonics Code Loader.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\bin\Debug\STBootLib.dll
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\bin\Debug\STBootLib.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\obj\Debug\STM32 Flash Loader.csproj.CopyComplete
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\obj\Debug\AeroVonics Code Loader.exe
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STM32 Flash Loader\obj\Debug\AeroVonics Code Loader.pdb

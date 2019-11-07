@@ -1,0 +1,5 @@
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STBootLib\bin\Debug\STBootLib.dll
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STBootLib\bin\Debug\STBootLib.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STBootLib\obj\Debug\STBootLib.csprojAssemblyReference.cache
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STBootLib\obj\Debug\STBootLib.dll
+C:\Users\timmc\Documents\AeroVonics Tools\PCBootLoader\STBootLib\obj\Debug\STBootLib.pdb

@@ -1,0 +1,17 @@
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\AhrsMonitor\bin\Debug\HeaterTune.exe.config
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\AhrsMonitor\bin\Debug\HeaterTune.exe
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\AhrsMonitor\bin\Debug\HeaterTune.pdb
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\AhrsMonitor\obj\Debug\AhrsMonitor.csprojAssemblyReference.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\AhrsMonitor\obj\Debug\AhrsMonitor.MainForm.resources
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\AhrsMonitor\obj\Debug\HeaterTune.Properties.Resources.resources
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\AhrsMonitor\obj\Debug\AhrsMonitor.csproj.GenerateResource.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\AhrsMonitor\obj\Debug\HeaterTune.exe
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\AhrsMonitor\obj\Debug\HeaterTune.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\AhrsMonitor\bin\Debug\HeaterTune.exe.config
+C:\Users\timmc\Documents\AeroVonics Tools\AhrsMonitor\bin\Debug\HeaterTune.exe
+C:\Users\timmc\Documents\AeroVonics Tools\AhrsMonitor\bin\Debug\HeaterTune.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\AhrsMonitor\obj\Debug\AhrsMonitor.MainForm.resources
+C:\Users\timmc\Documents\AeroVonics Tools\AhrsMonitor\obj\Debug\HeaterTune.Properties.Resources.resources
+C:\Users\timmc\Documents\AeroVonics Tools\AhrsMonitor\obj\Debug\AhrsMonitor.csproj.GenerateResource.cache
+C:\Users\timmc\Documents\AeroVonics Tools\AhrsMonitor\obj\Debug\HeaterTune.exe
+C:\Users\timmc\Documents\AeroVonics Tools\AhrsMonitor\obj\Debug\HeaterTune.pdb

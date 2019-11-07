@@ -1,0 +1,18 @@
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\ApaSim\bin\Debug\ApaSim.exe.config
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\ApaSim\bin\Debug\ApaSim.exe
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\ApaSim\bin\Debug\ApaSim.pdb
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\ApaSim\obj\Debug\ApaSim.csprojAssemblyReference.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\ApaSim\obj\Debug\ApaSim.Form1.resources
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\ApaSim\obj\Debug\ApaSim.Properties.Resources.resources
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\ApaSim\obj\Debug\ApaSim.csproj.GenerateResource.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\ApaSim\obj\Debug\ApaSim.csproj.CoreCompileInputs.cache
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\ApaSim\obj\Debug\ApaSim.exe
+C:\Users\AeroVonicsMfg2\source\repos\SoftwareTools\ApaSim\obj\Debug\ApaSim.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\ApaSim\bin\Debug\ApaSim.exe.config
+C:\Users\timmc\Documents\AeroVonics Tools\ApaSim\bin\Debug\ApaSim.exe
+C:\Users\timmc\Documents\AeroVonics Tools\ApaSim\bin\Debug\ApaSim.pdb
+C:\Users\timmc\Documents\AeroVonics Tools\ApaSim\obj\Debug\ApaSim.Form1.resources
+C:\Users\timmc\Documents\AeroVonics Tools\ApaSim\obj\Debug\ApaSim.Properties.Resources.resources
+C:\Users\timmc\Documents\AeroVonics Tools\ApaSim\obj\Debug\ApaSim.csproj.GenerateResource.cache
+C:\Users\timmc\Documents\AeroVonics Tools\ApaSim\obj\Debug\ApaSim.exe
+C:\Users\timmc\Documents\AeroVonics Tools\ApaSim\obj\Debug\ApaSim.pdb
